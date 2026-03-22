@@ -1,52 +1,22 @@
-# Hey there! I'm Aline 👋  
+# Hey, I'm Aline 👋
 
-💻 **Web Developer | Front-End & UX Enthusiast**  
-🌍 Based in Portugal  
+Product Manager in transition — with 13+ years in communication and marketing, 
+and technical training in information systems.
 
-I build websites that blend **clarity, usability and thoughtful design**.  
-After years working with **content strategy and digital marketing**, I shifted my focus to **front-end development**, where I found the perfect mix between creativity and logic.  
+I work at the intersection of **business**, **product** and **technology** — 
+bridging user needs, strategic thinking and technical literacy.
 
-### ⚙️ Tech Stack  
-- **Languages:** HTML, CSS, JavaScript  
-- **Tools & Workflow:** Git, Figma, Responsive Design, Version Control  
+## 🧩 What I bring
 
-### 🧩 What I’m focusing on  
-- Improving my JavaScript skills  
-- Building small projects that connect design and code  
-- Exploring accessibility and UX patterns  
+- User-centred thinking built over a decade in advertising and content strategy
+- Technical literacy in front-end development (HTML, CSS, JavaScript, React)
+- Tools: Figma, Notion, Trello, Git
 
-### 📫 Let’s connect  
-[LinkedIn](https://linkedin.com/in/alvimaline)  
+## 🔨 Currently building
 
-<!--
-### 📊 GitHub Stats  
+- Portfolio site in React → [alinealvim.com](https://alinealvim.com)
+- Product Management case studies
 
-<div align="center">
+## 📫 Let's connect
 
-![Aline's GitHub stats](https://github-readme-stats.vercel.app/api?username=alinealvim&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alinealvim&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9)
-
-</div>
--->
----
-
-### 🌐 Tech Badges  
-
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
-
----
-
-🪄 *“Clean code and clear communication go hand in hand.”*
-
-
----
-
-
-
-
+[LinkedIn](https://linkedin.com/in/alvimaline)
