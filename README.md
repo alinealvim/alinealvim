@@ -1,6 +1,6 @@
 # Hey, I'm Aline 👋
 
-Product Manager in transition with 10+ years in communication and marketing, 
+Product Manager with 10+ years in communication and marketing, 
 and technical training in information systems.
 
 I work at the intersection of **business**, **product** and **technology**, 
