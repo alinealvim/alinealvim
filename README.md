@@ -14,7 +14,7 @@ bridging user needs, strategic thinking and technical literacy.
 
 ## 🔨 Currently building
 
-- Portfolio site in React → [alinealvim.com](https://alinealvim.com)
+- Portfolio site in React → [alinealvim.com](alinealvim.github.io/alinealvim-pm)
 - Product Management case studies
 
 ## 📫 Let's connect
