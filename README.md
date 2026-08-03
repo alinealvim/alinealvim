@@ -1,5 +1,5 @@
 # Hey, I'm Aline 👋
-## Associate Product Manager
+## Product Manager
 ### Product-minded professional transitioning into Product Management
 
 I work at the intersection of business, product and technology, bridging user needs, strategic thinking, and technical literacy.
