@@ -15,7 +15,7 @@ I work at the intersection of business, product and technology, bridging user ne
 
 ## 🔨 Currently building
 - Preparing for PSPO I certification
-- Product Management case studies applying user-centred thinking
+- Product case studies applying user-centred thinking
 
 
 ---
@@ -23,4 +23,4 @@ I work at the intersection of business, product and technology, bridging user ne
 ## 📫 Let's connect
 - [LinkedIn](https://www.linkedin.com/in/alvimaline)
 - [Portfolio](https://alinealvim.com)
-- Open to Product Manager / Associate PM opportunities in Portugal
+- Open to PM / PO opportunities in Portugal
